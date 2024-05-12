@@ -1,7 +1,7 @@
 ![logo](https://github.com/uday667/uday667/blob/main/github%20image.jpeg)
-<h1 align="center">Hi 👋, I'm Kadiri UdayKumar Reddy</h1>
+<h1 align="center">Hi 👋, I'm B Karthik kumar Reddy</h1>
 <h1 align="center" color="red">Software Developer at TCS</h1>
-<h3 align="center">Experienced software developer with 1.5 years of expertise as developing Enterprise applications. Skilled in developing and deploying scalable solutions to meet complex Industry needs. Good problemsolving and teamwork abilities Passionate about staying current with industry trends</h3>
+<h3 align="center">Experienced as a Devops Engineer with 2.0 years of Experience. Skilled in developing and deploying scalable solutions to meet complex Industry needs. Good problemsolving and teamwork abilities Passionate about staying current with industry trends</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,17 +9,17 @@
 
 
 
-- 🔭 I’m currently working on [UIDAI](https://uidai.gov.in/en/)
+- 🔭 I’m worked in LTIMindtree
 
 - 🌱 I’m currently learning **Data Structures and algorithms in java, Spring boot, React Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/uday667](https://github.com/uday667)
+- 👨‍💻 All of my projects are available at [https://github.com/Karthikeya142)](https://github.com/Karthikeya142)
 
-- 📝 I regularly write articles on [https://techblogsuday.blogspot.com/](https://techblogsuday.blogspot.com/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/b-karthik-kumar-reddy/)](https://www.linkedin.com/in/b-karthik-kumar-reddy/)
 
 - 💬 Ask me about **React Js, AI, JavaScript**
 
-- 📫 How to reach me **udaykumarkadiri933@gmail.com**
+- 📫 How to reach me **busupallikarthikkumarreddy@gmail.com**
 
 - ⚡ **I am Funny**
 
