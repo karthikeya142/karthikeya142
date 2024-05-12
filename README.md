@@ -11,13 +11,13 @@
 
 - 🔭 I’m worked in LTIMindtree
 
-- 🌱 I’m currently learning **Data Structures and algorithms in java, Spring boot, React Js**
+- 🌱 I’m currently learning **Data Structures and algorithms in java, Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Karthikeya142)](https://github.com/Karthikeya142)
+- 👨‍💻 All of my projects are available at [https://github.com/Karthikeya142](https://github.com/Karthikeya142)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/b-karthik-kumar-reddy/)](https://www.linkedin.com/in/b-karthik-kumar-reddy/)
 
-- 💬 Ask me about **React Js, AI, JavaScript**
+- 💬 Ask me about **Devops tools**
 
 - 📫 How to reach me **busupallikarthikkumarreddy@gmail.com**
 
