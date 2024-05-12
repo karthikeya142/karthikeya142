@@ -1,6 +1,6 @@
 ![logo](https://github.com/uday667/uday667/blob/main/github%20image.jpeg)
 <h1 align="center">Hi 👋, I'm B Karthik kumar Reddy</h1>
-<h1 align="center" color="red">Software Developer at TCS</h1>
+<h1 align="center" color="red">DevOps Engineer at LTIMINDTREE </h1>
 <h3 align="center">Experienced as a Devops Engineer with 2.0 years of Experience. Skilled in developing and deploying scalable solutions to meet complex Industry needs. Good problemsolving and teamwork abilities Passionate about staying current with industry trends</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
